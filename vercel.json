@@ -1,0 +1,9 @@
+{
+    "cleanUrls": true,
+    "redirects": [
+        {
+          "source": "/page/movie.html",
+          "destination": "/movie*"
+        }
+      ]
+}
